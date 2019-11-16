@@ -54,3 +54,11 @@ Experimenting with building library VMM in Rust. Unclear what this will turn out
 ## New to Rust?!
 - [Here](https://www.rust-lang.org/tools/install) you can find out how to install Rust on your system.
 - [This](https://www.rust-lang.org/learn) is a very clear point to start off learning Rust or to find more details about it.
+
+
+## Installing project dependencies 
+```
+$ cargo install xargo
+$ cargo install cargo-xbuild
+$ cargo install bootimage
+```
