@@ -48,3 +48,9 @@ Experimenting with building library VMM in Rust. Unclear what this will turn out
     - [ ] 26.2.3 Host segment and descriptor tables.
     - [ ] 26.2.4 Address space size.
   - [ ] 26.3 Guest state.
+  
+  
+  
+## New to Rust?!
+- [Here](https://www.rust-lang.org/tools/install) you can find out how to install Rust on your system.
+- [This](https://www.rust-lang.org/learn) is a very clear point to start off learning Rust or to find more details about it.
